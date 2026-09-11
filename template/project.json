@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "templateVersion": "1.0.0",
+  "projectId": "replace_me",
+  "title": "Replace Me",
+  "status": "provisional",
+  "platform": "portrait_short_form",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "pixelAspect": 1,
+    "frameRate": 30,
+    "bitsPerChannel": 16
+  },
+  "paths": {
+    "finalAudio": "audio/final_audio.wav",
+    "assetManifest": "assets/asset_manifest.json",
+    "styleConfig": "design/style_config.json",
+    "referenceFrames": "quality_control/reference_frames",
+    "buildReport": "quality_control/build_report.txt"
+  },
+  "watermark": {
+    "enabled": false,
+    "text": "YOURDOMAIN.EXAMPLE",
+    "x": 900,
+    "y": 1770
+  },
+  "backgrounds": {
+    "solidFallback": "02030A",
+    "enableTwitchSeams": false,
+    "glitchFramesBefore": 3,
+    "glitchFramesAfter": 3
+  },
+  "referenceFrames": {
+    "autoExport": true,
+    "flushDelayMs": 3000
+  }
+}

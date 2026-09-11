@@ -1,0 +1,11 @@
+{
+  "slideId": "SL02",
+  "compSuffix": "PRESSURE",
+  "items": [
+    {"name": "slide_number", "text": "SLIDE 02", "role": "reference", "x": 100, "y": 120, "align": "left"},
+    {"name": "kicker", "text": "OPERATIVE PRESSURE", "role": "kicker", "x": 100, "y": 220, "align": "left"},
+    {"name": "headline", "text": "EXPOSE THE\nDEPENDENCY.", "role": "headline", "x": 100, "y": 390, "align": "left"},
+    {"name": "emphasis", "text": "WHAT BREAKS\nFIRST?", "role": "emphasis", "x": 100, "y": 1180, "align": "left"}
+  ]
+}
+

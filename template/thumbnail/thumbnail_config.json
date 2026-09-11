@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "canvas": {"width": 1920, "height": 1080},
+  "generatedGroup": "GENERATED_THUMBNAIL_TEXT",
+  "exportPrefix": "thumbnail_generated_v",
+  "scrim": {
+    "enabled": false,
+    "color": "02030A",
+    "opacity": 58,
+    "solidRight": 900,
+    "fadeRight": 1320,
+    "steps": 64
+  },
+  "textItems": [
+    {
+      "name": "CLAIM",
+      "text": "REPLACE THIS\nCLAIM",
+      "x": 120,
+      "y": 210,
+      "width": 1100,
+      "height": 360,
+      "font": "Arial-BoldMT",
+      "sizePx": 150,
+      "leadingPx": 165,
+      "tracking": 0,
+      "color": "F6F8FF",
+      "glow": "white"
+    },
+    {
+      "name": "PAYLOAD",
+      "text": "PAYLOAD",
+      "x": 120,
+      "y": 650,
+      "width": 1350,
+      "height": 280,
+      "font": "Arial-BoldMT",
+      "sizePx": 220,
+      "leadingPx": 230,
+      "tracking": -20,
+      "color": "FF3A48",
+      "glow": "red"
+    }
+  ]
+}

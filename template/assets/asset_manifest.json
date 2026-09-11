@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "projectId": "replace_me",
+  "slides": [
+    {
+      "id": "SL01",
+      "localPath": null,
+      "sharedAssetId": null,
+      "sourceBatch": null,
+      "sourceCandidate": null,
+      "mediaType": "solid",
+      "fit": "cover",
+      "x": 0,
+      "y": 0,
+      "zoom": 1,
+      "opacity": 100,
+      "loop": true,
+      "twitchSeams": false,
+      "approval": "provisional"
+    },
+    {
+      "id": "SL02",
+      "localPath": null,
+      "sharedAssetId": null,
+      "sourceBatch": null,
+      "sourceCandidate": null,
+      "mediaType": "solid",
+      "fit": "cover",
+      "x": 0,
+      "y": 0,
+      "zoom": 1,
+      "opacity": 100,
+      "loop": true,
+      "twitchSeams": false,
+      "approval": "provisional"
+    },
+    {
+      "id": "SL03",
+      "localPath": null,
+      "sharedAssetId": null,
+      "sourceBatch": null,
+      "sourceCandidate": null,
+      "mediaType": "solid",
+      "fit": "cover",
+      "x": 0,
+      "y": 0,
+      "zoom": 1,
+      "opacity": 100,
+      "loop": true,
+      "twitchSeams": false,
+      "approval": "provisional"
+    }
+  ]
+}
+

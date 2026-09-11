@@ -1,0 +1,11 @@
+{
+  "slideId": "SL03",
+  "compSuffix": "RESULT",
+  "items": [
+    {"name": "slide_number", "text": "SLIDE 03", "role": "reference", "x": 100, "y": 120, "align": "left"},
+    {"name": "kicker", "text": "CHANGED STATE", "role": "kicker", "x": 100, "y": 220, "align": "left"},
+    {"name": "headline", "text": "SHOW ONLY\nWHAT SURVIVES.", "role": "headline", "x": 100, "y": 390, "align": "left"},
+    {"name": "body", "text": "THE NARRATION EXPLAINS.\nTHE SLIDE LOCKS IN THE RESULT.", "role": "body", "x": 100, "y": 1080, "align": "left"}
+  ]
+}
+

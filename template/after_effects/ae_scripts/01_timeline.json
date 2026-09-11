@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "project": "replace_me",
+  "sourceAudio": "audio/final_audio.wav",
+  "timingSource": "provisional",
+  "timingMethod": "Three ten-second placeholders pending final audio.",
+  "totalDurationSec": 30,
+  "totalDurationTimecode30fps": "00:00:30:00",
+  "slides": [
+    {
+      "id": "SL01",
+      "title": "Initial State",
+      "startSec": 0,
+      "endSec": 10,
+      "durationSec": 10
+    },
+    {
+      "id": "SL02",
+      "title": "Pressure",
+      "startSec": 10,
+      "endSec": 20,
+      "durationSec": 10
+    },
+    {
+      "id": "SL03",
+      "title": "Result",
+      "startSec": 20,
+      "endSec": 30,
+      "durationSec": 10
+    }
+  ]
+}
+

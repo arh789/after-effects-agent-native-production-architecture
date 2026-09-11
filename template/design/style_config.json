@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "preset": "neutral_text",
+  "fonts": {
+    "display": "Arial-BoldMT",
+    "body": "ArialMT"
+  },
+  "roles": {
+    "reference": {
+      "font": "display",
+      "fontSize": 28,
+      "tracking": 90,
+      "leading": 34,
+      "coreColor": "F6F8FF",
+      "coreOpacity": 72,
+      "bloom": {"enabled": false},
+      "halo": {"enabled": false}
+    },
+    "kicker": {
+      "font": "display",
+      "fontSize": 44,
+      "tracking": 120,
+      "leading": 52,
+      "coreColor": "F6F8FF",
+      "coreOpacity": 100,
+      "bloom": {"enabled": false},
+      "halo": {"enabled": false}
+    },
+    "headline": {
+      "font": "display",
+      "fontSize": 118,
+      "tracking": 0,
+      "leading": 124,
+      "coreColor": "F6F8FF",
+      "coreOpacity": 100,
+      "bloom": {"enabled": false},
+      "halo": {"enabled": false}
+    },
+    "statement": {
+      "font": "display",
+      "fontSize": 76,
+      "tracking": 0,
+      "leading": 86,
+      "coreColor": "F6F8FF",
+      "coreOpacity": 100,
+      "bloom": {"enabled": false},
+      "halo": {"enabled": false}
+    },
+    "body": {
+      "font": "body",
+      "fontSize": 54,
+      "tracking": 2,
+      "leading": 70,
+      "coreColor": "F1F3FF",
+      "coreOpacity": 100,
+      "bloom": {"enabled": false},
+      "halo": {"enabled": false}
+    },
+    "emphasis": {
+      "font": "display",
+      "fontSize": 92,
+      "tracking": 0,
+      "leading": 104,
+      "coreColor": "FF4545",
+      "coreOpacity": 100,
+      "bloom": {"enabled": false},
+      "halo": {"enabled": false}
+    }
+  }
+}

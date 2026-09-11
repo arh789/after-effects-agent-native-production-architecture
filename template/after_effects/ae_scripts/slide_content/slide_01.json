@@ -1,0 +1,11 @@
+{
+  "slideId": "SL01",
+  "compSuffix": "INITIAL_STATE",
+  "items": [
+    {"name": "slide_number", "text": "SLIDE 01", "role": "reference", "x": 100, "y": 120, "align": "left"},
+    {"name": "kicker", "text": "INITIAL STATE", "role": "kicker", "x": 100, "y": 220, "align": "left"},
+    {"name": "headline", "text": "NAME THE\nCURRENT STATE.", "role": "headline", "x": 100, "y": 390, "align": "left"},
+    {"name": "body", "text": "WHAT DOES THE VIEWER\nBELIEVE BEFORE PRESSURE?", "role": "body", "x": 100, "y": 1120, "align": "left"}
+  ]
+}
+
